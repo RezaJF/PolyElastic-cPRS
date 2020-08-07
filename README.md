@@ -6,19 +6,28 @@ This repository contains scripts for generating composite PRS scores for ageing-
 ## NOTE
 Successful implementation of the pipeline requires the following dependencies:
 
-### Prerequisite
+## Prerequisite
 PRSice-2 [website](https://www.prsice.info/)
+
 R version 3.2.3 or higher
 
 PLINK 1.90b or highr
 
 Python 3.7.3 or higher
 
-#### Python libraries
+### Python libraries
+
 Python Data Analysis Library- pandas
+
 numpy
+
 sklearn.preprocessing
+
 random
+
 glob
+
 logging
+
+
 
