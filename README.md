@@ -4,6 +4,9 @@ Composite PRS scores for Aging-associated diseases
 This repository contains scripts for generating composite PRS scores for ageing-associated disorders. PolyElastic-cPRS runs as a command-line program and requires imputed genomes according to the hg19 genome assembly.
 
 ## NOTE
+
+Accompanying summary statistic data is not included in this repository. Please contact directly for GWAS summary statistics.
+
 Successful implementation of the pipeline requires the following dependencies:
 
 ## Prerequisite
