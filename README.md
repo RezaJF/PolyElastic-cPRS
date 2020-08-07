@@ -7,7 +7,7 @@ This repository contains scripts for generating composite PRS scores for ageing-
 Successful implementation of the pipeline requires the following dependencies:
 
 ## Prerequisite
-PRSice-2 [website](https://www.prsice.info/)
+[PRSice-2](https://www.prsice.info/)
 
 R version 3.2.3 or higher
 
@@ -40,6 +40,6 @@ cd PolyElastic-cPRS
 ```
 
 ## Contact
-For more update instructions email me at: reza.jabal@einsteinmed.org
+For more update and instructions email me at: reza.jabal@einsteinmed.org
 
 
