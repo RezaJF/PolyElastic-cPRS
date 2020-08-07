@@ -17,17 +17,17 @@ Python 3.7.3 or higher
 
 ### Python libraries
 
-Python Data Analysis Library- pandas
+- Python Data Analysis Library- pandas
 
-numpy
+- numpy
 
-sklearn.preprocessing
+- sklearn.preprocessing
 
-random
+- random
 
-glob
+- glob
 
-logging
+- logging
 
 
 
