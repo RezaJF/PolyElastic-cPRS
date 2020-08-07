@@ -1,5 +1,9 @@
 #! /bin/bash
 
+module load plink/1.90b
+module load R/3.6.0/gcc.7.1.0
+module load python/3.7.3/gcc.4.4.7
+
 if [ $# -ne 3 ]
 then
     echo "Usage: `basename $0` PATH_to_PRSice TARGET_BED OUTPUT_DIRECTORY"
@@ -9,10 +13,6 @@ fi
 echo "`date -u` : Run started successfully" > logfile.txt
 
 
-
-
-module load plink/1.90b
-module load R/3.6.0/gcc.7.1.0
 
 PATH_to_PRSice=$1
 target=$2
@@ -64,6 +64,9 @@ cat PRS_list.txt | while read i,
 	done
 
 echo "`date -u` : PRS pre-processing finished successfully!" >> logfile.txt
+echo "`date -u` : Initiating composite PRS score calculation!" >> logfile.txt
 
+
+python auxiliary.py
 
 
