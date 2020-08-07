@@ -38,6 +38,7 @@ cd PolyElastic-cPRS
 
 ./cPRS_generator.sh [PATH_to_PRSice] [PATH_to_imputed_BEDs] [OUTPUT_DIRECTORY]
 ```
+- For accessing accompanying summary statistic data, please contact directly!
 
 ## Contact
 For more update and instructions email me at: reza.jabal@einsteinmed.org
