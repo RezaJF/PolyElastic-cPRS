@@ -33,10 +33,12 @@ Python 3.7.3 or higher
 
 ```bash
 git clone https://github.com/RezaJF/PolyElastic-cPRS.git
+
 cd PolyElastic-cPRS
+
 ./cPRS_generator.sh [PATH_to_PRSice] [PATH_to_imputed_BEDs] [OUTPUT_DIRECTORY]
 ```
 
-
+For more update instructions email me at: reza.jabal@einsteinmed.org
 
 
