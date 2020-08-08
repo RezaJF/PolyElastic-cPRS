@@ -70,7 +70,7 @@ echo "`date -u` : PRS pre-processing finished successfully!" >> logfile.txt
 echo "`date -u` : Initiating composite PRS score calculation!" >> logfile.txt
 
 
-chmod +x auxiliary.py
+chmod +x auxiliary.py && mv auxiliary.py ${out}
 python auxiliary.py
 
 
