@@ -16,7 +16,7 @@ R version 3.2.3 or higher
 
 PLINK 1.90b or highr
 
-Python 3.7.3 or higher
+Python 3.4.1 or higher
 
 ### Python libraries
 
