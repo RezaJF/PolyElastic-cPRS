@@ -61,6 +61,7 @@ ls ${out}/*_prs.best > PRS_list.txt
 cat PRS_list.txt | while read i
 	do
         	sed -i 's/[[:blank:]]*$//' $i
+		awk -v OFS="\t" '$1=$1' $i > tmp && mv tmp $i
 #        	sed -i -e "1s/PRS/$i/" $i
 
 	done
