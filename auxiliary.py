@@ -13,10 +13,10 @@ random.seed(42)
 #PATH_DIR= Path.cwd()
 
 if len(sys.argv) < 2:
-    print 'Usage: ' + sys.argv[0] + ' <filename>'
+    print ('Usage: ' + sys.argv[0] + ' <filename>')
     sys.exit(1)
 
-print 'pre-processed PRS scores are available at:              ' + sys.argv[1]
+print ('pre-processed PRS scores are available at:              ' + sys.argv[1])
 
 
 all_files = glob.glob(str(sys.argv[1])+ "/*.best")
