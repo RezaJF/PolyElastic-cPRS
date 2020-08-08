@@ -2,7 +2,7 @@
 
 module load plink/1.90b
 module load R/3.6.0/gcc.7.1.0
-module load python/3.7.3/gcc.4.4.7
+module load python/3.4.1/gcc.4.4.7
 module load pandas/0.16/python.3.4.1
 
 if [ $# -ne 3 ]
