@@ -54,9 +54,9 @@ cat base_sum_stats.txt | while read i j k
 echo "`date -u` : PRS calculation finished successfully!" >> logfile.txt
 
 
-ls *_prs.best > PRS_list.txt
+ls ${out}/*_prs.best > PRS_list.txt
 
-cat PRS_list.txt | while read i,
+cat PRS_list.txt | while read i
 	do
         	sed -i 's/[[:blank:]]*$//' $i
         	sed -i -e "1s/PRS/$i/" $i
