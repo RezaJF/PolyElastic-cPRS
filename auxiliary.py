@@ -34,7 +34,7 @@ col_names = []
 
 for i in range(len(all_files)):
 
-		col = str(all_files[i]).split("/")[-1].strip(".best")
+		col = str(all_files[i]).split("/")[-1].replace(".best", "")
 		col_names.append(col)
 
 reduced_pPRS = PRS_primary[PRS_primary.columns[2::3]]
