@@ -7,9 +7,10 @@ This repository contains scripts for generating composite PRS scores for ageing-
 
 Accompanying summary statistic data is not included in this repository. Please contact directly for GWAS summary statistics.
 
-Successful implementation of the pipeline requires the following dependencies:
 
 ## Prerequisite
+Successful implementation of the pipeline requires the following dependencies:
+
 [PRSice-2](https://www.prsice.info/)
 
 R version 3.2.3 or higher
