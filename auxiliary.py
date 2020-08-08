@@ -418,3 +418,4 @@ scaled_pPRS['Composit_score_polyElastic']= ((scaled_pPRS['trait_29']*scaled_pPRS
                      (scaled_pPRS['trait_10']*-27.049515)+
                      (scaled_pPRS['trait_34']*-33.430666) 
                                    )
+scaled_pPRS.to_csv(PATH_DIR/'cPRS_results.txt', sep='\t', index= False)
