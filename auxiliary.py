@@ -216,7 +216,7 @@ scaled_pPRS['Composit_score_polyElastic']= ((scaled_pPRS['trait_29']*scaled_pPRS
                      (scaled_pPRS['trait_37']*scaled_pPRS['trait_66']*-11.199638)+
                      (scaled_pPRS['trait_28']*scaled_pPRS['trait_23']*-11.250697)+
                      (scaled_pPRS['trait_60']*scaled_pPRS['trait_16']*-11.266255)+
-                     (scaled_pPRS['trait_61']*scaled_pPRS['Total_trait_12']*-11.545864)+
+                     (scaled_pPRS['trait_61']*scaled_pPRS['trait_68']*-11.545864)+
                      (scaled_pPRS['trait_30']*scaled_pPRS['trait_11']*-11.697771)+
                      (scaled_pPRS['trait_32']*scaled_pPRS['trait_33']*-12.012224)+
                      (scaled_pPRS['trait_30']*scaled_pPRS['trait_24']*-12.151675)+
@@ -228,10 +228,10 @@ scaled_pPRS['Composit_score_polyElastic']= ((scaled_pPRS['trait_29']*scaled_pPRS
                      (scaled_pPRS['trait_29']*scaled_pPRS['trait_17']*-12.816469)+
                      (scaled_pPRS['trait_53']*scaled_pPRS['trait_58']*-13.121160)+
                      (scaled_pPRS['trait_60']*scaled_pPRS['trait_59']*-13.139942)+
-                     (scaled_pPRS['trait_25']*scaled_pPRS['Total_trait_12']*-13.338520)+
+                     (scaled_pPRS['trait_25']*scaled_pPRS['trait_68']*-13.338520)+
                      (scaled_pPRS['trait_56']*scaled_pPRS['trait_37']*-13.454048)+
                      (scaled_pPRS['trait_75']*scaled_pPRS['trait_12']*-13.557144)+
-                     (scaled_pPRS['trait_9']*scaled_pPRS['Total_trait_12']*-13.576208)+
+                     (scaled_pPRS['trait_9']*scaled_pPRS['trait_68']*-13.576208)+
                      (scaled_pPRS['trait_57']*scaled_pPRS['trait_58']*-13.587007)+
                      (scaled_pPRS['trait_21']*scaled_pPRS['trait_12']*-13.747057)+
                      (scaled_pPRS['trait_53']*scaled_pPRS['trait_63']*-13.845102)+
@@ -291,7 +291,7 @@ scaled_pPRS['Composit_score_polyElastic']= ((scaled_pPRS['trait_29']*scaled_pPRS
                      (scaled_pPRS['trait_40']*scaled_pPRS['trait_67']*-21.429963)+
                      (scaled_pPRS['trait_73']*scaled_pPRS['trait_62']*-21.688526)+
                      (scaled_pPRS['trait_8']*scaled_pPRS['trait_74']*-21.758489)+
-                     (scaled_pPRS['trait_32']*scaled_pPRS['Total_trait_12']*-21.875365)+
+                     (scaled_pPRS['trait_32']*scaled_pPRS['trait_68']*-21.875365)+
                      (scaled_pPRS['trait_19']*scaled_pPRS['trait_37']*-22.273096)+
                      (scaled_pPRS['trait_70']*scaled_pPRS['trait_69']*-23.003030)+
                      (scaled_pPRS['trait_73']*scaled_pPRS['trait_9']*-23.177700)+
@@ -306,11 +306,11 @@ scaled_pPRS['Composit_score_polyElastic']= ((scaled_pPRS['trait_29']*scaled_pPRS
                      (scaled_pPRS['trait_33']*scaled_pPRS['trait_67']*-25.249025)+
                      (scaled_pPRS['trait_75']*scaled_pPRS['trait_55']*-25.252948)+
                      (scaled_pPRS['trait_19']*scaled_pPRS['trait_73']*-25.624458)+
-                     (scaled_pPRS['trait_55']*scaled_pPRS['Total_trait_12']*-26.152108)+
+                     (scaled_pPRS['trait_55']*scaled_pPRS['trait_68']*-26.152108)+
                      (scaled_pPRS['trait_77']*scaled_pPRS['trait_63']*-26.193278)+
                      (scaled_pPRS['trait_19']*scaled_pPRS['trait_58']*-26.464080)+
                      (scaled_pPRS['trait_29']*scaled_pPRS['trait_31']*-27.005286)+
-                     (scaled_pPRS['trait_62']*scaled_pPRS['Total_trait_12']*-27.069799)+
+                     (scaled_pPRS['trait_62']*scaled_pPRS['trait_68']*-27.069799)+
                      (scaled_pPRS['trait_45']*scaled_pPRS['trait_3']*-27.498880)+
                      (scaled_pPRS['trait_70']*scaled_pPRS['trait_23']*-27.547237)+
                      (scaled_pPRS['trait_57']*scaled_pPRS['trait_53']*-28.006892)+
